@@ -32,7 +32,7 @@ export default function Home() {
         <span>{title}</span>
         <span className="mt-16">
           <span className="text-9xl block">
-            <span className="text-lime-400">7</span>/10
+            <span className="text-green-400">8</span>/10
           </span>
           <span>tillfälligt engagemang</span>
         </span>
